@@ -29,6 +29,5 @@ if __name__ == "__main__":
     main_program_thread.daemon = True
     main_program_thread.start()
 
-    # Die Endlosschleifen in den Threads halten die Programme aktiv und im Hintergrund.
     while True:
         pass
