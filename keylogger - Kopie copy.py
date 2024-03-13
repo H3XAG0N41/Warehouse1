@@ -16,11 +16,8 @@ def start_keylogger():
     listener.join()
 
 def main_program():
-    # Hier können Sie Ihr Hauptprogramm hinzufügen, das im Hintergrund ausgeführt wird.
-    # Es könnte beispielsweise ein Server, eine Überwachungsaufgabe oder andere Aufgaben sein.
 
     while True:
-        # Führen Sie hier Ihre Hauptprogrammaufgaben aus.
         pass
 
 if __name__ == "__main__":
